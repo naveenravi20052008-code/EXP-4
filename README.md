@@ -47,7 +47,8 @@ Rectifier without filter
 TABULAR COLUMN
 Rectifier with filter
 ![WhatsApp Image 2025-10-23 at 08 54 06_ef9b28af](https://github.com/user-attachments/assets/628bc037-da21-4e36-8276-981b19dca3ae)
-![Uploading WhatsApp Image 2025-10-23 at 08.54.07_f30bf3f6.jpg…]()
+![WhatsApp Image 2025-10-23 at 08 54 07_3b70845c](https://github.com/user-attachments/assets/10e6e61c-c7c2-4e8c-885d-700fccda1200)
+
 
 WAVEFORM:
 ![WhatsApp Image 2025-10-23 at 08 54 06_c71cac2b](https://github.com/user-attachments/assets/b7e639f9-0d05-401b-97a2-7c9814abdb48)
